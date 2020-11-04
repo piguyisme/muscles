@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<p> God help us <p>
 
 <h1>The map and area elements</h1>
 
@@ -10,19 +11,19 @@
 
 <map name="musclemap">
   <area shape="rect" coords="34,44,270,350" alt="ass" href="ass.htm">
-  <area shape="circle" coords=" , , , " alt="Trapezius" onclick=""
-  <area shape="circle" coords=" , , , " alt="Deltoids" onclick=""
-  <area shape="circle" coords=" , , , " alt="Pectoralis" onclick=""
-  <area shape="circle" coords=" , , , " alt="Biceps" onclick=""
-  <area shape="circle" coords=" , , , " alt="Triceps" onclick=""
-  <area shape="circle" coords=" , , , " alt="Latissimus Dorsi" onclick=""
-  <area shape="circle" coords=" , , , " alt="Abdominals" onclick=""
-  <area shape="circle" coords=" , , , " alt="Obliques" onclick=""
-  <area shape="circle" coords=" , , , " alt="Gluteus maximus" onclick=""
-  <area shape="circle" coords=" , , , " alt="Quadriceps" onclick=""
-  <area shape="circle" coords=" , , , " alt="Hamstrings" onclick=""
-  <area shape="circle" coords=" , , , " alt="Hip adductors" onclick=""
-  <area shape="circle" coords=" , , , " alt="Gastronemcius" onclick=""
+  <area shape="rect" coords=" , , , " alt="Trapezius" onclick=""
+  <area shape="rect" coords=" , , , " alt="Deltoids" onclick=""
+  <area shape="rect" coords=" , , , " alt="Pectoralis" onclick=""
+  <area shape="rect" coords=" , , , " alt="Biceps" onclick=""
+  <area shape="rect" coords=" , , , " alt="Triceps" onclick=""
+  <area shape="rect" coords=" , , , " alt="Latissimus Dorsi" onclick=""
+  <area shape="rect" coords=" , , , " alt="Abdominals" onclick=""
+  <area shape="rect" coords=" , , , " alt="Obliques" onclick=""
+  <area shape="rect" coords=" , , , " alt="Gluteus maximus" onclick=""
+  <area shape="rect" coords=" , , , " alt="Quadriceps" onclick=""
+  <area shape="erect" coords=" , , , " alt="Hamstrings" onclick=""
+  <area shape="rect" coords=" , , , " alt="Hip adductors" onclick=""
+  <area shape="rect" coords=" , , , " alt="Gastronemcius" onclick=""
 </map>
 
 </body>
