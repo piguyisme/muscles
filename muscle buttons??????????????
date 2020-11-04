@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The map and area elements</h1>
+
+<p>Muscles!</p>
+
+<img src="muscles.jpg" alt="Muscles" usemap="#musclemap" width="724" height="518">
+
+<map name="musclemap">
+  <area shape="rect" coords="34,44,270,350" alt="ass" href="ass.htm">
+  <area shape="circle" coords=" , , , " alt="
+</map>
+
+</body>
+</html>
