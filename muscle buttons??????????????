@@ -4,13 +4,25 @@
 
 <h1>The map and area elements</h1>
 
-<p>Muscles!</p>
+<p>Muscles! Click on the numbers to find out more and what excersice helps them grow:</p>
 
 <img src="muscles.jpg" alt="Muscles" usemap="#musclemap" width="724" height="518">
 
 <map name="musclemap">
   <area shape="rect" coords="34,44,270,350" alt="ass" href="ass.htm">
-  <area shape="circle" coords=" , , , " alt="
+  <area shape="circle" coords=" , , , " alt="Trapezius" onclick=""
+  <area shape="circle" coords=" , , , " alt="Deltoids" onclick=""
+  <area shape="circle" coords=" , , , " alt="Pectoralis" onclick=""
+  <area shape="circle" coords=" , , , " alt="Biceps" onclick=""
+  <area shape="circle" coords=" , , , " alt="Triceps" onclick=""
+  <area shape="circle" coords=" , , , " alt="Latissimus Dorsi" onclick=""
+  <area shape="circle" coords=" , , , " alt="Abdominals" onclick=""
+  <area shape="circle" coords=" , , , " alt="Obliques" onclick=""
+  <area shape="circle" coords=" , , , " alt="Gluteus maximus" onclick=""
+  <area shape="circle" coords=" , , , " alt="Quadriceps" onclick=""
+  <area shape="circle" coords=" , , , " alt="Hamstrings" onclick=""
+  <area shape="circle" coords=" , , , " alt="Hip adductors" onclick=""
+  <area shape="circle" coords=" , , , " alt="Gastronemcius" onclick=""
 </map>
 
 </body>
